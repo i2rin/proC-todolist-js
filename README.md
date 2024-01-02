@@ -1,2 +1,2 @@
 # proC-todolist
-大学の講義の課題でTodo-Listを作りました
+大学の授業でTodo-Listを作りました
