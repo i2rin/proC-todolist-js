@@ -32,7 +32,7 @@ const App = () => {
 
   return (
     <div>
-      <Todolist todos = {todos} toggleTodo={toggleTodo} /> 
+      <TodoList todos = {todos} toggleTodo={toggleTodo} /> 
       <input type = "text" ref={todoNameRef}/>
       <button onClick = {handleAddTodo}>タスクを追加</button>
       <button>完了したタスクの削除</button>
