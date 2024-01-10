@@ -1,3 +1,6 @@
+# 参考動画
+プログラミングチュートリアル様の動画(https://youtu.be/nRCNL9T3J98?si=Y_kmRfsRBCTMnVVM)を参考にして作成しています
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
