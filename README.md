@@ -1,5 +1,5 @@
 # 謝辞
-プログラミングチュートリアル様の動画(https://youtu.be/nRCNL9T3J98?si=Y_kmRfsRBCTMnVVM) を参考にして作成しています
+プログラミングチュートリアル様の[動画](https://youtu.be/nRCNL9T3J98?si=Y_kmRfsRBCTMnVVM)を参考にして作成しています
 
 # Getting Started with Create React App
 
