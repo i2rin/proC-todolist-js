@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/airinfukuda/Library/CloudStorage/OneDrive-ShizuokaUniversity/デスクトップ/2.3.2応プロC/5/OneDrive_1_2024-1-9",
+      "program": "/Users/airinfukuda/Library/CloudStorage/OneDrive-ShizuokaUniversity/デスクトップ/2.3.2応プロC/5/OneDrive_1_2024-1-9/build/Debug/outDebug"
+    }
+  ]
+}
